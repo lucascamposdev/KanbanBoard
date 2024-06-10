@@ -8,11 +8,11 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.kanban</groupId>
+	<groupId>com.manager</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Kanban Board Backend</name>
-	<description>Backend for Kanban Board Application</description>
+	<name>Project Manager Backend</name>
+	<description>Backend for Project Manager Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
