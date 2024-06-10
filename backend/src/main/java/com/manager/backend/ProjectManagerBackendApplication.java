@@ -1,13 +1,13 @@
-package com.kanban.backend;
+package com.manager.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KanbanBoardBackendApplication {
+public class ProjectManagerBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KanbanBoardBackendApplication.class, args);
+		SpringApplication.run(ProjectManagerBackendApplication.class, args);
 	}
 
 }

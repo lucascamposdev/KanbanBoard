@@ -1,4 +1,4 @@
-package com.kanban.backend;
+package com.manager.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
