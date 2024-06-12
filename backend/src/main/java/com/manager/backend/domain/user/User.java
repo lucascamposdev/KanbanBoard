@@ -1,8 +1,5 @@
 package com.manager.backend.domain.user;
 
-
-public class User {
-=======
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
